@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="b6636736-ece0-4131-91bd-9b4bd0c24cf9" />
+      <option name="name" value="b6636736-ece0-4131-91bd-9b4bd0c24cf9" />
+      <option name="url" value="https://maven.aliyun.com/repository/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="d9b7c1b8-e48c-469b-8d4a-940bc4a6ad1a" />
+      <option name="name" value="d9b7c1b8-e48c-469b-8d4a-940bc4a6ad1a" />
+      <option name="url" value="https://maven.aliyun.com/repository/google/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="7ea6640d-be48-4f72-992d-410e46dbb894" />
+      <option name="name" value="7ea6640d-be48-4f72-992d-410e46dbb894" />
+      <option name="url" value="https://maven.aliyun.com/repository/spring/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="37e158fd-5e20-4af7-a2b6-04f2f03fe0f9" />
+      <option name="name" value="37e158fd-5e20-4af7-a2b6-04f2f03fe0f9" />
+      <option name="url" value="https://maven.aliyun.com/repository/gradle-plugin/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="374bd5a5-f4d8-4dae-8963-09800c749245" />
+      <option name="name" value="374bd5a5-f4d8-4dae-8963-09800c749245" />
+      <option name="url" value="https://maven.aliyun.com/repository/spring-plugin/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="9c5c75df-1e87-4ddf-9ec3-f9427e9a3ea9" />
+      <option name="name" value="9c5c75df-1e87-4ddf-9ec3-f9427e9a3ea9" />
+      <option name="url" value="https://maven.aliyun.com/repository/grails-core/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="7199db5c-804b-4639-9a89-5366151785e2" />
+      <option name="name" value="7199db5c-804b-4639-9a89-5366151785e2" />
+      <option name="url" value="https://maven.aliyun.com/repository/apache-snapshots/" />
+    </remote-repository>
+  </component>
+</project>
